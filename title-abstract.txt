@@ -1,5 +1,6 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+RTL Automation
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+The RTL Automation aims to build data pipelines, automate the major workflow of the RTL, and free researchers from doing manual chores like updating Google Sheet or drop in csv files.
+Simply put, we make researchers' lives easier and help them more efficiently end this pandemic.
